@@ -1,3 +1,5 @@
+NOTE THAT NONE OF LINKS IN THIS ARE FOR MY FORK!
+
 <h1 align="center">
     <a href="https://ssstormy.github.io/roll20-enhancement-suite/">VTT Enhancement Suite</a>
 </h1>
